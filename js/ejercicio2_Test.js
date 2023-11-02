@@ -1,4 +1,3 @@
-console.log("Ejercicio 2 test");
 
 const promedioStudentData = [
   [10211233, [100, 70, 82, 50, 30, 90], "10211233 70.33"],
